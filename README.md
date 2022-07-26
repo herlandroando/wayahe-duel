@@ -1,2 +1,2 @@
 # wayahe-duel
-just for testing websocket
+just fodr testing websocket
